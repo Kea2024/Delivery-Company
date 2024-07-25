@@ -1,17 +1,14 @@
-# PopCrt_Marketing-Campaign
+# Delivery Company
 
 ### Project Overview
-The goal is to assist the company in understanding, which product categories are most popular among different customer segments, which campaigns are performing best by gender, and which age groups are most likely to engage with marketing content.
+The goal is to  make a report for an Indian delivery company about delivery time to compare the company’s performance with competitors.
 
 ### Data Sources
  The datasets used for this analysis are:
- - marketing_impressions.xlsx
- - sales_data.xlsx
+ - delivery_statistics.csv
 
 ### Tools
-- SQL Server - Data Cleaning
-- MS Excel- Data Analysis
-- Canva - Creating Reports
+- Power BI - cleaning, data analysis and data visualization
 
 ### Data Cleaning/Preparation
 
